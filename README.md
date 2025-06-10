@@ -42,7 +42,7 @@ A simple web-based online store that displays products, allows users to add them
 
 ---
 
-## ⚙️ Installation
+## ⚙ Installation
 
 1. **Clone the repository:**
    ```sh
