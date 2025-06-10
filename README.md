@@ -6,15 +6,15 @@ A simple web-based online store that displays products, allows users to add them
 
 ## 📑 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Demo](#-demo)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Examples](#-examples)
+- [Technologies Used](#-technologies-used)
+- [Project Structure](#-project-structure)
+- [License](#-license)
 
 ---
 
