@@ -46,8 +46,8 @@ A simple web-based online store that displays products, allows users to add them
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/mini-online-shop.git
-   cd mini-online-shop
+   git clone https://github.com/DmyTROSAlii/MiniOnlineShop.git
+   cd minionlineshop
    ```
 
 2. **No build step required.**  
